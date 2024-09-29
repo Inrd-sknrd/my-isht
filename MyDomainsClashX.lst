@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,rule34.xxx
+IP-CIDR,193.57.46.0/24
